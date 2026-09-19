@@ -29,6 +29,14 @@ Firefox and Safari do not use this toggle.
 
 3. Click **Install**.
 
+<img width="1280" height="787" alt="TureBlackYT-Home" src="https://github.com/user-attachments/assets/b7c18c35-11c4-4c6a-a15f-a1fc85bbede1" />
+
+<img width="1280" height="787" alt="TrueBlackYT-Playlist" src="https://github.com/user-attachments/assets/ef100dbe-4521-4581-82e4-43ff6276a625" />
+
+<img width="1280" height="787" alt="TrueBlackYT-Live" src="https://github.com/user-attachments/assets/223bd289-b9fa-4c70-aa24-f4e5f8e53496" />
+
+<img width="1280" height="787" alt="TrueBlackYT-Acc-Menu" src="https://github.com/user-attachments/assets/c5f44fea-cedd-47d5-ad11-01677ac3cb3b" />
+
 ## Disclaimer
 
 This userscript restyles YouTube in the browser. Using it may have side effects, including reduced performance.
