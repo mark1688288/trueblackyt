@@ -17,6 +17,9 @@ On Chrome, Brave, or Edge (Chrome 138+), enable Tampermonkey before it can run:
 
 Firefox and Safari do not use this toggle.
 
+> [!CAUTION]
+> Read the [Disclaimer](#disclaimer) before installing this userscript.
+
 ### Install via Import from URL
 
 1. Open **Tampermonkey** → **Dashboard** → **Utilities**.
