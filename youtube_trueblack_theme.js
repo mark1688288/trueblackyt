@@ -4,6 +4,7 @@
 // @version      1.3.8
 // @description  Restyle YouTube into a "Lights Out" look: pure black, chat-bar search, blue accents, pill chips. Keeps original YouTube logo.
 // @author       mark1688288
+// @license      MIT
 // @homepageURL  https://github.com/mark1688288/trueblackyt
 // @supportURL   https://github.com/mark1688288/trueblackyt/issues
 // @downloadURL  https://raw.githubusercontent.com/mark1688288/trueblackyt/main/youtube_trueblack_theme.js
