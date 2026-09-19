@@ -1,4 +1,30 @@
-# trueblackyt
+# True Black YouTube Theme
+
+## Getting Started
+
+### Prerequisites
+
+- [Tampermonkey](https://www.tampermonkey.net/) (recommended) or [Violentmonkey](https://violentmonkey.github.io/)
+- A desktop browser with that manager installed (Chrome, Brave, Edge, Firefox, or Safari)
+
+### Allow User Scripts
+
+On Chrome, Brave, or Edge (Chrome 138+), enable Tampermonkey before it can run:
+
+1. Open **Extensions** → **Manage extensions** (or go to `chrome://extensions`).
+2. Open **Tampermonkey** → **Details**.
+3. Turn on **Allow User Scripts**.
+
+Firefox and Safari do not use this toggle.
+
+### Install via Import from URL
+
+1. Open **Tampermonkey** → **Dashboard** → **Utilities**.
+2. Under **Import from URL**, paste:
+
+   https://raw.githubusercontent.com/mark1688288/trueblackyt/main/youtube_trueblack_theme.js
+
+3. Click **Install**.
 
 ## Disclaimer
 
