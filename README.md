@@ -6,6 +6,7 @@
 
 - [Tampermonkey](https://www.tampermonkey.net/) (recommended) or [Violentmonkey](https://violentmonkey.github.io/)
 - A desktop browser with that manager installed (Chrome, Brave, Edge, Firefox, or Safari)
+- Youtube enabled Dark Theme from Appearance setting
 
 ### Allow User Scripts
 
@@ -36,6 +37,8 @@ Firefox and Safari do not use this toggle.
 <img width="1280" height="787" alt="TrueBlackYT-Live" src="https://github.com/user-attachments/assets/223bd289-b9fa-4c70-aa24-f4e5f8e53496" />
 
 <img width="1280" height="787" alt="TrueBlackYT-Acc-Menu" src="https://github.com/user-attachments/assets/c5f44fea-cedd-47d5-ad11-01677ac3cb3b" />
+
+<img width="1280" height="788" alt="TrueBlackYT-Search-history" src="https://github.com/user-attachments/assets/5a57564f-0e8a-4795-86c8-63f60a6933f0" />
 
 ## Disclaimer
 
