@@ -1,5 +1,12 @@
 # True Black YouTube Theme
 
+[![License: MIT](https://img.shields.io/github/license/mark1688288/trueblackyt?style=flat-square)](LICENSE)
+![JavaScript](https://img.shields.io/badge/JavaScript-userscript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![YouTube](https://img.shields.io/badge/YouTube-True_Black-FF0000?style=flat-square&logo=youtube&logoColor=white)
+![Tampermonkey](https://img.shields.io/badge/Tampermonkey-ready-67A14D?style=flat-square&logo=tampermonkey&logoColor=white)
+![Violentmonkey](https://img.shields.io/badge/Violentmonkey-ready-F44336?style=flat-square&logo=violentmonkey&logoColor=white)
+![Last commit](https://img.shields.io/github/last-commit/mark1688288/trueblackyt?style=flat-square)
+
 ## Getting Started
 
 ### Prerequisites
